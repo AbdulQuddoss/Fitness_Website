@@ -7,7 +7,7 @@ import heart from "../assets/heart.png";
 import calories from "../assets/calories.png";
 import {motion} from 'framer-motion';
 import NumberCounter from 'number-counter';
-
+//hello
 const hero = () => {
   const transition = {type: 'spring', duration: 3};
   const mobile = window.innerWidth <= 768 ? true : false;
